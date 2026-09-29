@@ -1,6 +1,6 @@
 # zhenxun-plugin-emby-search
 
-基于 [zhenxun_bot](https://github.com/zhenxun-bot/zhenxun_bot) 的 Emby 媒体库插件，提供**库内搜番**与**新增动态**两个功能，结果均渲染为带海报的卡片图。
+基于 [绪山真寻 Bot（zhenxun_bot）](https://github.com/zhenxun-org/zhenxun_bot) 的 Emby 媒体库插件，提供**库内搜番**与**新增动态**两个功能，结果均渲染为带海报的卡片图。
 
 ## 功能
 
@@ -47,7 +47,8 @@ git clone https://github.com/DaisySG297/zhenxun-plugin-emby-search emby_search
 
 ## 鸣谢
 
-- [绪山真寻 Bot（zhenxun_bot）](https://github.com/zhenxun-bot/zhenxun_bot) —— 本插件基于真寻 Bot 框架开发，插件加载、配置注册、消息构建、卡片渲染等均依赖上游项目的基础设施，感谢真寻及全体贡献者的优秀工作。
+- [绪山真寻 Bot（zhenxun_bot）](https://github.com/zhenxun-org/zhenxun_bot) —— 本插件基于真寻 Bot 框架开发，插件加载、配置注册、消息构建、卡片渲染等均依赖上游项目的基础设施。
+- 感谢原作者 [HibiKier](https://github.com/HibiKier) 及 [zhenxun-org](https://github.com/zhenxun-org) 全体贡献者的优秀工作。
 
 ## License
 
