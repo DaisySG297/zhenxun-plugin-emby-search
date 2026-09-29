@@ -45,6 +45,10 @@ git clone https://github.com/DaisySG297/zhenxun-plugin-emby-search emby_search
 - 缩写别名在 `data_source.py` 的 `_ANIME_ALIASES` 中维护，可自行扩充
 - 插件内置一个可选的 Emby Webhook 接收服务（默认端口 8095），用于接收播放入库推送
 
+## 鸣谢
+
+- [绪山真寻 Bot（zhenxun_bot）](https://github.com/zhenxun-bot/zhenxun_bot) —— 本插件基于真寻 Bot 框架开发，插件加载、配置注册、消息构建、卡片渲染等均依赖上游项目的基础设施，感谢真寻及全体贡献者的优秀工作。
+
 ## License
 
-MIT
+MIT（插件本体代码）。上游框架 zhenxun_bot 采用 AGPL-3.0 协议。
