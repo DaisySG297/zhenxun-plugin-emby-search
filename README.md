@@ -11,6 +11,16 @@
 
 卡片图底部带署名（头像 + DaisySG），模板可自行修改。
 
+## 效果预览
+
+**emby搜番** —— 海报、年份、评分、季话数、入库时间一目了然：
+
+![emby搜番效果预览](assets/search_preview.png)
+
+**emby新增动态** —— 区分整部入库与话更新，逐集显示标题与字幕组：
+
+![emby新增动态效果预览](assets/recent_preview.png)
+
 ## 安装
 
 ```bash
