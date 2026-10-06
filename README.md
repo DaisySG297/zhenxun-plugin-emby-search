@@ -62,4 +62,4 @@ git clone https://github.com/DaisySG297/zhenxun-plugin-emby-search emby_search
 
 ## License
 
-MIT（插件本体代码）。上游框架 zhenxun_bot 采用 AGPL-3.0 协议。
+本项目基于 [MIT License](./LICENSE) 开源，欢迎自由使用、修改与分发。上游框架 zhenxun_bot 采用 [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) 协议。
